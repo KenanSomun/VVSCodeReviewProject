@@ -39,6 +39,7 @@ namespace GuessTheNumber
 
             Console.WriteLine("Hello World!" + Saberi(x, y) + " " + Oduzmi(x, y));
             Console.ReadKey();
+            //komentar za gita neki test :D
 
         }
     }
