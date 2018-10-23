@@ -8,9 +8,9 @@ namespace GuessTheNumber
 {
     class Program
 
-        /* Plan je napraviti igricu za pogaðanje broja kojeg generise racunar.
+        /* Plan je napraviti igricu za pogaï¿½anje broja kojeg generise racunar.
          * Igrac ima 10 pokusaja dok ne pogodi broj od 1-100.
-         * Igrac se tokom pokusaja da pogodi broj obavjestava da li je 
+         * Igrac se tokom pokusaja da pogodi broj obavjestava da li je
          * blizu pogadjanja broja sa "toplo-hladno".
          * Igrac se obavjestava da je pogodio/fulio broj na kraju igrice.
         */
@@ -24,6 +24,11 @@ namespace GuessTheNumber
         static int Oduzmi(int a, int b)
         {
             return a - b;
+        }
+
+        static int Podijeli(int a, int b)
+        {
+            return a / b;
         }
 
         static void Main(string[] args)
