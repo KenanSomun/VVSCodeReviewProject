@@ -21,6 +21,11 @@ namespace GuessTheNumber
             return a + b;
         }
 
+        static int Oduzmi(int a, int b)
+        {
+            return a - b;
+        }
+
         static void Main(string[] args)
         {
 
@@ -32,7 +37,7 @@ namespace GuessTheNumber
             int y = Int32.Parse(Console.ReadLine());
 
 
-            Console.WriteLine("Hello World!" + Saberi(x, y));
+            Console.WriteLine("Hello World!" + Saberi(x, y) + " " + Oduzmi(x, y));
             Console.ReadKey();
 
         }

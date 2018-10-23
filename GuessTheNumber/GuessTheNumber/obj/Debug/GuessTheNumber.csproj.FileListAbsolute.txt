@@ -5,3 +5,10 @@ C:\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.c
 C:\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
 C:\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
 C:\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
+C:\VVSCodeReviewProject\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\VVSCodeReviewProject\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\VVSCodeReviewProject\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\VVSCodeReviewProject\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojAssemblyReference.cache
+C:\VVSCodeReviewProject\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\VVSCodeReviewProject\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\VVSCodeReviewProject\VVSCodeReviewProject\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
