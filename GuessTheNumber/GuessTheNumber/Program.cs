@@ -26,6 +26,11 @@ namespace GuessTheNumber
             return a - b;
         }
 
+        static int Mnozenje(int a, int b)
+        {
+            return a * b;
+        }
+
         static void Main(string[] args)
         {
 
