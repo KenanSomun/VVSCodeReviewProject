@@ -29,6 +29,12 @@ namespace GuessTheNumber
 		{
 			return a * b; 
 		}
+		
+		// Funkcija za dijeljenje dva cijela broja
+		static int Podijeli(int a, int b) 
+		{
+			return a / b; 
+		}
 
         static void Main(string[] args)
         {
